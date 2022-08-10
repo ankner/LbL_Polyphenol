@@ -1,7 +1,7 @@
 # LbL_Polyphenol
 Excel sheets implementing LbL polyphenol fitting
 
-The Excel sheets in this archive accompany the manuscript "Dynamics and Self-Healing of Layer-by-Layer Hydrogen-Bonded Films of Linear Synthetic Polyphenols", by Raman Hlushko, John F. Ankner, and Svetlana A. Sukhishvili, which is currently under review at the journal Macromolecules (as of July 2021).
+The Excel sheets in this archive accompany the manuscript "Dynamics and Self-Healing of Layer-by-Layer Hydrogen-Bonded Films of Linear Synthetic Polyphenols", by Raman Hlushko, John F. Ankner, and Svetlana A. Sukhishvili, Macromolecules 54, 7469 (2021).
 
 There are four sets of Excel sheets representing specular neutron reflectivity fits to data collected from four different samples: hydrogen-bonded polyphenol (PnHxA) / poly(ethylene oxide) PEO multilayer films deposited on silicon (Si) substrates using the Layer-by-Layer (LbL) technique: 1) P2HAA/PEO; 2) P3HAA/PEO; 3) P2HMA/PEO; and 4) P3HMA/PEO.  These four films were subsequently exposed to deuterated PEO (dPEO) solutions for 1, 2, 5, and 10 (except P3HMA) minutes.
 
